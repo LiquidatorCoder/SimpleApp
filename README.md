@@ -1,16 +1,16 @@
-# simpleapp
+# simpleapp - Simplest Flutter App
 
-A new Flutter project.
+This is the simplest Flutter app I made.
 
-## Getting Started
+Obviously this was my first flutter app.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
+### Checkout more beginner friendly stuff here -
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Checkout more advanced stuff here - 
+- [Professional Flutter Apps' Repos](https://github.com/Hash-Studios)
+- [More repos](https://github.com/LiquidatorCoder?tab=repositories&q=&type=&language=dart)
+
+### Checkout Flutter's official documentaion here - 
+- [Online Documentation](https://flutter.dev/docs)
